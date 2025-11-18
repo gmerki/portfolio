@@ -2,6 +2,6 @@
   --primary: #8fad88;
   --accent: #e67e22;
 }
-body {
+html, body {
   background-color: #010400;
 }
