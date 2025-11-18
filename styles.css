@@ -1,1 +1,7 @@
-
+:root {
+  --primary: #8fad88;
+  --accent: #e67e22;
+}
+body {
+  background-color: #010400;
+}
